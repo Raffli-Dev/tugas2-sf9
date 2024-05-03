@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\LENOVO\Documents\MSIB-Prak\SF-7\tugas_7-3\venv"
+VIRTUAL_ENV="C:\Users\LENOVO\Documents\MSIB-Prak\SF-9\Latihan_9-2\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

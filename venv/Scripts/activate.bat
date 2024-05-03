@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\LENOVO\Documents\MSIB-Prak\SF-7\tugas_7-3\venv
+set VIRTUAL_ENV=C:\Users\LENOVO\Documents\MSIB-Prak\SF-9\Latihan_9-2\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
